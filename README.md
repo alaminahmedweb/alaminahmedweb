@@ -1,3 +1,6 @@
+👋 Hi, I’m Alamin Ahmed
+👀 I’m interested in web development
+🌱 I’m currently learning AWS
 ### Hi there 👋
 
 
