@@ -1,5 +1,7 @@
-<p>Hi, I’m Alamin Ahmed</p>
-<p>A Passionate .Net Core Developer From Dhaka,Bangladesh</p>
-<p>I’m currently working on CRM MIS https://github.com/alaminahmedweb/CRM</p>
-<p>I’m currently learning AWS</p>
-
+👋 Hi, I’m @alamin ahmmed a software engineer at big bang computer ltd.
+💞️ My skills include Asp.Net Core, C#, SQL Server, MVC Framework , RESTFUL API, Entity Framework Core, Clean Architechture, Javascript,Jquery, Bootstrap,css,html.
+👀 I’m interested in .net technologies.
+🌱 I’m currently learning Angular.
+✨My Portfolio: https://alamin-ahmmed.github.io/portfolio/
+🤝Connect with me https://www.linkedin.com/in/alamin-ahmed-dpi/
+📫 How to reach me alamindpi26@gmail.com
